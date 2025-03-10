@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mahmoud</h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahmoud-Eid-Elsayed&label=Profile%20views&abbreviated=true&color=0e75b6&style=for-the-badge" alt="Mahmoud Eid profile views" /></p>
+<h1 align="center">Hi 👋, I'm Mahmoud</h1> 
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahmoud-Eid-Elsayed&label=Profile%20views&abbreviated=true&color=0e75b6&style=for-the-badge" alt="Mahmoud Eid profile views" /></p>
+ -->
 <div align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/06f21a161921919.63cd7887d0a70.gif" height="250" width="250" alt="My Code pic" />
 </div>
@@ -54,4 +56,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Eid-Elsayed&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="330" height="250" alt="Mahmoud-Eid-Elsayed most-Used-Language stats"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud-Eid-Elsayed&theme=dark&hide_border=false" width="400" height="150" alt="Mahmoud-Eid-Elsayed steak" /></p>
+<a>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Mahmoud-Eid-Elsayed&theme=dark&hide_border=false" width="400" height="150" alt="Mahmoud-Eid-Elsayed steak" /></a>

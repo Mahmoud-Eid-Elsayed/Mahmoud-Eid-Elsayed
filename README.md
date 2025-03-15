@@ -55,5 +55,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Eid-Elsayed&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Mahmoud-Eid-Elsayed status" width="450" height="250"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Eid-Elsayed&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="330" height="250" alt="Mahmoud-Eid-Elsayed most-Used-Language stats"/></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud-Eid-Elsayed&theme=dark" alt="Mahmoud-Eid-Elsayed-streak" /></p>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Mahmoud-Eid-Elsayed&theme=dark&hide_border=false" width="400" height="150" alt="Mahmoud-Eid-Elsayed steak" /></p> -->

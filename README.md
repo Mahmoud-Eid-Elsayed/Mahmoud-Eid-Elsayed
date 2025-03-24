@@ -2,7 +2,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahmoud-Eid-Elsayed&label=Profile%20views&abbreviated=true&color=0e75b6&style=for-the-badge" alt="Mahmoud Eid profile views" /></p>
  -->
 <div align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/06f21a161921919.63cd7887d0a70.gif" height="250" width="250" alt="My Code pic" />
+  <img src="./assets/images/special-pic-01/special-background01.gif" height="80%" width="80%" alt="My Code pic" />
 </div>
 
 <div align="center">

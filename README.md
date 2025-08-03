@@ -1,8 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mahmoud</h1> 
+<h1 align="center">Hi 👋, I'm Mahmoud Eid</h1> 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahmoud-Eid-Elsayed&label=Profile%20views&abbreviated=true&color=0e75b6&style=for-the-badge" alt="Mahmoud Eid profile views" /></p>
  -->
-<div align="center">
+<!-- <div align="center">
   <img src="./assets/images/special-pic-01/special-background01.gif" height="80%" width="80%" alt="My Code pic" />
+</div> -->
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/01ae6fa1-ce0a-4ecd-a0f7-4b51cdc00129" height="50%" width="50%" alt="My Code pic" />
 </div>
 
 <div align="center">
@@ -15,7 +18,7 @@
   <a href="https://codepen.io/Mahmoud-Eid-Elsayed47" target="_blank"> <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="codepen logo"  />
   </a>
 </div>
-<h3 align="center">💻 Passionate developer from Egypt ☺ </h3>
+<h3 align="center">💻 Passionate Software Engineer ☺ </h3>
 
  - 💡🎓 I’m currently learning <b>Software Develpment | Reverse engineering |  Shell | Software engineering</b>
 
